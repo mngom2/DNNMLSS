@@ -2,5 +2,9 @@
 ## by Marieme Ngom
 
 #### 1. Part I prerequisites 
-You need to download mpi4py, please let us (Egor or me) if you need help.
-You might also need to download torch, torchvision, and torchaudio.
+## Clone repo
+[https://github.com/mngom2/DNNMLSS/tree/main](https://github.com/mngom2/DNNMLSS/tree/main)
+Then:
+1. Sign in at [Google Collab](https://colab.research.google.com/)
+2. Go to ***File->Open a notebook->GitHub->Enter above URL then select MLSS-DNN-DAY1.ipynb***
+Or on AWS (follow Bamba's instructions)
